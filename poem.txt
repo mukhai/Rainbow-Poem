@@ -5,8 +5,9 @@ Pink
 Red
 Green
 unicorn
+ponies
 Yellow
 Blue
 Orange
-There are the colors of the rainbow.
-There are unicorns
+These are the colors of the rainbow
+There are unicorns and ponies
