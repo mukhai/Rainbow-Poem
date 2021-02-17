@@ -11,3 +11,5 @@ Blue
 Orange
 These are the colors of the rainbow
 There are unicorns and ponies
+
+Note: Pull request is we change something from branch into main branch either from owner or other person
