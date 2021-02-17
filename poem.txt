@@ -4,7 +4,9 @@ Purple
 Pink
 Red
 Green
+unicorn
 Yellow
 Blue
 Orange
 There are the colors of the rainbow.
+There are unicorns
