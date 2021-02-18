@@ -10,6 +10,7 @@ ponies
 Yellow
 Violet
 Blue
+Blue for color of sky
 Orange
 These are the colors of the rainbow
 There are unicorns and ponies
