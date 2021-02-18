@@ -12,5 +12,6 @@ Violet
 Blue
 Blue for color of sky
 Orange
+Orange is a type of fruit
 These are the colors of the rainbow
 There are unicorns and ponies
