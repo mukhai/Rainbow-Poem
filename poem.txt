@@ -8,6 +8,7 @@ unicorn
 Reuse, Reduce and Recycle
 ponies
 Yellow
+Violet
 Blue
 Orange
 These are the colors of the rainbow
