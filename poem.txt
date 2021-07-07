@@ -1,5 +1,7 @@
 The Rainbow
 
+Today is Earth Day guys
+I love Earth day
 Purple
 Pink
 Red
@@ -12,5 +14,8 @@ Violet
 Blue
 Blue for color of sky
 Orange
+Orange is a type of fruit
 These are the colors of the rainbow
 There are unicorns and ponies
+
+Note: Pull request is we change something from branch into main branch either from owner or other person
